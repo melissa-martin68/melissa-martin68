@@ -17,15 +17,13 @@ Crafting small web tools, micro-SaaS experiments, and automation scripts. Based 
 </td>
 <td valign="top" width="45%">
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=melissa-martin68&hide_border=true&theme=react-dark" alt="Contribution graph" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=melissa-martin68&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" alt="melissa-martin68 GitHub stats" />
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melissa-martin68&theme=radical" alt="Contribution summary" />
 
 </td>
 </tr>
 </table>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa-martin68&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melissa-martin68&theme=radical" alt="Top languages by repo" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=melissa-martin68&hide_border=true&theme=radical" alt="Commit streak" />
 
