@@ -12,7 +12,7 @@ Crafting small web tools, micro-SaaS experiments, and automation scripts. Based 
 - ⚡ Fun fact: I debug faster with music on
 - ✨ I prefer boring solutions that work
 
-<img src="https://img.shields.io/badge/Python-bd93f9?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-bd93f9?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/TypeScript-bd93f9?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQLite-bd93f9?style=for-the-badge&logoColor=white" alt="SQLite" />
+`Python` · `FastAPI` · `TypeScript` · `SQLite`
 
 </td>
 <td valign="top" width="45%">
@@ -35,6 +35,6 @@ Crafting small web tools, micro-SaaS experiments, and automation scripts. Based 
 
 ---
 
-<a href="https://github.com/melissa-martin68"><img src="https://img.shields.io/badge/GitHub-@melissa-martin68-bd93f9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <img src="https://img.shields.io/github/followers/melissa-martin68?label=Followers&style=social" alt="Followers" />
+<a href="https://github.com/melissa-martin68"><img src="https://img.shields.io/github/followers/melissa-martin68?label=Followers&style=social" alt="Followers" /></a> <a href="https://github.com/melissa-martin68"><img src="https://img.shields.io/github/stars/melissa-martin68?label=Stars&color=d93f9&style=flat-square" alt="Stars" /></a> <img src="https://img.shields.io/github/followers/melissa-martin68?label=Followers&color=d93f9&style=flat-square" alt="Followers" /> <img src="https://img.shields.io/github/last-commit/melissa-martin68/melissa-martin68?label=Last%20update&color=d93f9&style=flat-square" alt="Last update" />
 
 <sub>Based in Singapore. Always happy to talk shop.</sub>
